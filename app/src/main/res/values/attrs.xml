@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PieChartView">
+        <attr name="_isShowText" format="boolean"/>
+        <attr name="_textY" format="dimension"/>
+        <attr name="_textWidth" format="dimension"/>
+        <attr name="_textHeight" format="dimension"/>
+        <attr name="_textPos" format="integer"/>
+        <attr name="_textColor" format="color"/>
+        <attr name="_highlightStrength" format="float"/>
+        <attr name="_pieRotation" format="integer"/>
+        <attr name="_pointerRadius" format="dimension"/>
+        <attr name="_autoCenterInSlice" format="boolean"/>
+    </declare-styleable>
+</resources>
